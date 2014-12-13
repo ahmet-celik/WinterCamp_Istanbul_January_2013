@@ -1,7 +1,9 @@
 Winter Camp, Istanbul, January 2013
 
 Day 1 - Problem F
+
 The Lazy Team 
+
 The lazy soccer team has a practice session. Since the players of the lazy team are very lazy they won’t move during the trainings, thus each player has its fixed position on a game field. We consider them as points on a plain. The goalkeeper is always at a position (30, 1). The goal is the line segment connecting points (27, 100) and (33, 100).
 
 There are N players in the team and each team player has a range parameter. A player can pass the ball to another player if his range parameter is not less than the distance between these players. Also a player can score if his range parameter is not less than the shortest distance from this player to the score.
@@ -24,8 +26,11 @@ Constraints:
 Sample input:
 
 4 50
+
 20 40 40
+
 40 40 20
+
 30 70 35
 
 Sample output:
